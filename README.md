@@ -1,5 +1,5 @@
 ## <div align=center> 👋Hi, We are CAHLP (Creative and High Level Play) Team  </div>
-> * 동의대학교 창업교육센터 소속 - 창업동아리팀 CAHLP 팀입니다. 
+> * 동의대학교 창업교육센터 소속 - 창업동아리팀 <img src = " https://user-images.githubusercontent.com/92977647/152990056-bef01593-841a-4107-9d3f-acd67627eef3.png" width="220">팀입니다. 
 
 ### CAHLP 팀의 역사 
 
