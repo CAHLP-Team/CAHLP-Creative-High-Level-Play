@@ -1,5 +1,6 @@
 ## <div align=center> 👋Hi, We are CAHLP (Creative and High Level Play) Team  </div>
-> * 동의대학교 창업교육센터 소속 - 창업동아리팀 <img src = " https://user-images.githubusercontent.com/92977647/152990056-bef01593-841a-4107-9d3f-acd67627eef3.png" width="220">팀입니다. 
+> * 동의대학교 창업교육센터 소속 - 창업동아리팀 <img src = "https://user-images.githubusercontent.com/92977647/152990322-3746ab69-4796-4ed9-b747-45db6c510263.png" width="
+140">팀입니다. 
 
 ### CAHLP 팀의 역사 
 
@@ -18,7 +19,6 @@
 
 > 1. 반드시 자기 브런치 라인지정해서 커밋후 푸시 해주세요 
 > 2. 반드시 path후 pull 해주세요 
-
 
 ### 1.개발 팀원 
 > 1. gabang2
